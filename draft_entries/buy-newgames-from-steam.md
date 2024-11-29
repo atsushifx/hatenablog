@@ -1,8 +1,8 @@
 ---
 Title: 積みゲーを増やした
+URL: https://atsushifx.hatenablog.jp/entry/2024/11/28/buy-newgames-from-steam
 EditURL: https://blog.hatena.ne.jp/atsushifx/atsushifx.hatenablog.jp/atom/entry/6802418398307652261
 PreviewURL: https://atsushifx.hatenablog.jp/draft/entry/bF0tFLUCBSXUFKEymDPHLt4LZtk
-Draft: true
 ---
 
 Steamオータムセール 2024がはじまったし、面白そうなゲームをピックアップして購入。
